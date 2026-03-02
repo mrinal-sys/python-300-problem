@@ -6,7 +6,7 @@ lst[2] = 98
 print(lst)
 
 tple = (2,4,6,7,8,9,0)
-print(tple[3])
+# print(tple[3])
 # TypeError: 'tuple' object does not support item assignment
 
 # sequence and non sequence data type
@@ -20,4 +20,4 @@ print(str[3])
 set = {2,4,5,6,7,8,0}
 # print(set[4])
 # TypeError: 'set' object is not subscriptable
-print(set)
+print(set) 
